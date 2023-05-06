@@ -2,8 +2,12 @@
 A Simple Way That Show To You ,You Been a Good Runner Today ?
 
 Records_me : Enter Your Records as A (Dict)
+
 Key  :Your Distance(Meter)
+
 Value:Time(Min)
+
+
 
 When You Run The File,All The Keys Division To Thiere Values That Result is A Number That Show Your Score !!! (it's Simple,But it Work Smart)
 
