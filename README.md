@@ -8,7 +8,6 @@ Key  :Your Distance(Meter)
 Value:Time(Min)
 
 
-
 When You Run The File,All The Keys Division To Thiere Values That Result is A Number That Show Your Score !!! (it's Simple,But it Work Smart)
 
 Subsequent In Terminal You see Lines That Show Your Running Condition Each Time And Your Sort Score.
