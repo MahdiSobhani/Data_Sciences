@@ -1,4 +1,4 @@
-#Deta_Science_Running
+# Data_Science_Running
 
 
 A Simple Way That Show To You ,You Been a Good Runner Today ?
