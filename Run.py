@@ -90,5 +90,5 @@ plt.title('Records of Running',loc='left')
 plt.legend()
 plt.xlabel('No.')
 plt.ylabel('Points')
-print('wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww')
+
 plt.show()
