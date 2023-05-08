@@ -1,8 +1,6 @@
 # Data_Sciences
 A Simple Way That Show To You ,You Been a Good Runner Today ?
-A Simple Way That Show To You ,You Been a Good Runner Today ?
 
-A Simple Way That Show To You ,You Been a Good Runner Today ?
 
 Records_me : Enter Your Records as A (Dict)
 
